@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Skill working output (generated dossiers should not be committed to the skill repo)
+influencer-profiles/
+
+# Local eval runs / workspaces
+*-workspace/

@@ -1,0 +1,23 @@
+{
+  "skill_name": "influencer-profile-research",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "should I sponsor this youtube channel? https://www.youtube.com/@HelloFutureMe — my company is https://ellipsus.com (collaborative writing tool). stats I have: 1.22M subscribers, average views per video 160K, engagement rate 5.6%, they asked $7,000",
+      "expected_output": "English .md dossier: brand context built from ellipsus.com (anti-AI collaborative writing tool), YouTube logic (view-to-sub, median-vs-average caveat with outlier check, CPM on views, evergreen tail), creator stance detected as hard anti-genAI (🔴) with named videos as evidence — and correctly read as an ALLY for this anti-AI brand, 4-scenario conversion table, verdict with negotiation target, relationship-first outreach plan.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "here's a newsletter I'm considering for ads: https://www.densediscovery.com\nmy product: https://bear.app\nsubscribers 36K, open rate 64%, price $599",
+      "expected_output": "English .md dossier: brand context from bear.app (calm markdown notes app), newsletter logic (opens, CTOR unavailable → estimated and marked, eCPM), OR 64% interpreted correctly (self-stated on a public rate card, not auto-flagged as fraud), price reconciled against their public advertise page, pulse check (latest issue date), fit scoring, scenarios, outreach as a transactional rate-card booking.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "is this twitter guy worth it for my company shortform.com? https://x.com/culturaltutor — i don't have any stats, he quoted $4000 per tweet",
+      "expected_output": "English .md dossier: handles missing stats by estimating from public data with every estimate clearly marked, X logic (reach-rate vs followers, suppressed external link CTR 0.3–1.0%, no evergreen), honest math of a one-off tweet vs the same budget in newsletters, fair-price range computed from CPM anchors as negotiation anchor, fit for a book-summaries product, verdict and first-email approach.",
+      "files": []
+    }
+  ]
+}
