@@ -4,7 +4,7 @@ A [Claude](https://claude.com/claude-code) **Skill** that turns a creator link +
 
 Drop in a blogger, a channel, or a newsletter (plus whatever stats you have), and get back a structured report: who they *actually* reach, the honest economics of a placement, how well they fit **your** brand, projected results, and a concrete outreach plan — including how to write the first email.
 
-> Built from evaluating 30+ real creators across every platform. The methodology is baked in: judge real reach over vanity follower counts, catch inflated/bot metrics, reconcile asking prices against public rate cards, and match each creator to *your* brand rather than a generic one.
+> Built from evaluating 30+ real creators across every platform on my personal experience. The methodology is baked in: judge real reach over vanity follower counts, catch inflated/bot metrics, reconcile asking prices against public rate cards, and match each creator to *your* brand rather than a generic one.
 
 ---
 
